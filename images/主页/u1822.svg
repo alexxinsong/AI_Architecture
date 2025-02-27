@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="175px" height="40px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="87.5" cy="0" r="98.4375" gradientTransform="matrix(0 0.40634920634920635 -1 0 87.5 -35.55555555555556 )" gradientUnits="userSpaceOnUse" id="RadialGradient129">
+      <stop id="Stop130" stop-color="#2f77f1" offset="0" />
+      <stop id="Stop131" stop-color="#02a7f0" offset="1" />
+    </radialGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip132">
+      <path d="M 20 40  C 8.799999999999999 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 155 0  C 166.20000000000002 0  175 8.799999999999999  175 20  C 175 31.200000000000003  166.20000000000002 40  155 40  L 20 40  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -231 -969 )">
+    <path d="M 20 40  C 8.799999999999999 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 155 0  C 166.20000000000002 0  175 8.799999999999999  175 20  C 175 31.200000000000003  166.20000000000002 40  155 40  L 20 40  Z " fill-rule="nonzero" fill="url(#RadialGradient129)" stroke="none" transform="matrix(1 0 0 1 231 969 )" class="fill" />
+    <path d="M 20 40  C 8.799999999999999 40  0 31.200000000000003  0 20  C 0 8.799999999999999  8.799999999999999 0  20 0  L 155 0  C 166.20000000000002 0  175 8.799999999999999  175 20  C 175 31.200000000000003  166.20000000000002 40  155 40  L 20 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 231 969 )" class="stroke" mask="url(#Clip132)" />
+  </g>
+</svg>
